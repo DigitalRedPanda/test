@@ -1,0 +1,32 @@
+{
+  "title": "Untitled Project",
+  "description": "",
+  "head": "<meta charset=\"UTF-8\" />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+  "htmlAttrs": "lang=\"en\" class=\"\"",
+  "tags": [],
+  "activeEditor": "markup",
+  "markup": {
+    "language": "html",
+    "content": "<!DOCTYPE html>\n<html>\n  <head>\n    <style>\n      .a {\n        display: flex;\n        justify-content: center;\n        align-items: center;\n      }\n      .s {\n\t      background: black;\n\t      width: 5px;\n\t      height: 200px;\n\t      transition-duration: 0.5s;\n        transition-timing-function: ease-out;\n\n      }\n\n      .s:hover {\n\t      height: 500px;\n      }\n\n    </style>\n  </head>\n  <body>\n    <div class=\"a\">\n    <div class=\"s\"></div>\n    </div>\n  </body>\t\n\n</html>"
+  },
+  "style": {
+    "language": "css",
+    "content": ""
+  },
+  "script": {
+    "language": "javascript",
+    "content": ""
+  },
+  "stylesheets": [],
+  "scripts": [],
+  "cssPreset": "",
+  "processors": [],
+  "customSettings": {},
+  "imports": {},
+  "types": {},
+  "tests": {
+    "language": "typescript",
+    "content": ""
+  },
+  "version": "29"
+}
